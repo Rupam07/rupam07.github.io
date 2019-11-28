@@ -6,7 +6,7 @@ The **_creative.css_** from **CSS** folder and the **_index.html_** was modified
 
 ## Please visit below url:
 
-## __https://rupam07.github.io/portfolio/__
+## __https://rupam07.github.io/__
 
 Note : 
 License from MIT has been included in the repo
